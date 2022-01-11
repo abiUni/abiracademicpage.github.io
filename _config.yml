@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Abir Bouraffa"
 title_separator          : "-"
-name                     : &name "Abir Bouraffa"
-description              : &description "Ph.D. Candidate"
+name                     : &name "Hajer Bouraffa"
+description              : &description "B.Sc. Biology"
 url                      : https://abiuni.github.io/abiracademicpage.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abiracademicpage/academicpages.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abir Bouraffa"
+  name             : "Hajer Bouraffa"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate at Hamburg University, curious about all application fields of Software Engineering"
-  location         : "Hamburg, Germany"
+  bio              : "Candidate for M.Sc. in Marine Bilogy, passionate about wildlife conservation"
+  location         : "Tunis, Tunisia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/hajer-bouraffa-44526220b/?originalSubdomain=tn"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@ABouraffa"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
