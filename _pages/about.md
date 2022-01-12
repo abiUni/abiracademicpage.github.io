@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="./../images/collage.png" alt="drawing" style="width:600px;align:center;"/>
+<img src="https://abiuni.github.io/abiracademicpage.github.io/images/collage.png" alt="drawing" style="width:600px;align:center;"/>
 <br>
 <br>
 <br>
